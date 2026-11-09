@@ -1,3 +1,5 @@
+<img width="1014" height="566" alt="image" src="https://github.com/user-attachments/assets/9b7808b0-a549-4013-b264-967117038528" />
+
 🛠️ Step-by-Step Implementation Guide in Vivado
 Follow these steps to build and run this project from scratch using AMD Xilinx Vivado:
 
