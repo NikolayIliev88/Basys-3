@@ -1,3 +1,5 @@
+<img width="4128" height="2322" alt="image" src="https://github.com/user-attachments/assets/9532854d-f0a8-4650-b121-5caca1f1ffc0" />
+
 # 16-Note VHDL Music Synthesizer for Basys3
 
 A digital music synthesizer implemented in VHDL on the Digilent Basys3 FPGA board (Artix-7). Each of the 16 onboard switches (`SW0` to `SW15`) maps to a distinct musical note spanning from C4 to C6.
